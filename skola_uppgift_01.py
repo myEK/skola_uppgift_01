@@ -1,6 +1,7 @@
 # skola_uppgift_01
 
-class dag: // Classem 
+class dag:
+        // Classem 
         // importera tiden
         from datetime import datetime
 
