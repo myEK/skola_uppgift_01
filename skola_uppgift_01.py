@@ -1,8 +1,8 @@
 # skola_uppgift_01
 
 class dag:
-        // Classem 
-        // importera tiden
+        # Classem 
+        # importera tiden
         from datetime import datetime
 
         now = datetime.now() // hemmtar tiden
@@ -15,4 +15,4 @@ class dag:
         print (dd + "/" + mm + "-" + yyyy + "  " + hour + ":" + me + ":" + ss)
 
 
-dag() // köra klassens funtion "dag"
+dag() # köra klassens funtion "dag"
